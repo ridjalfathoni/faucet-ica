@@ -2,7 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   distDir: 'dist',
-  basePath: '/public',
   images: {
     domains: ['faucet.patoni.online'],
     unoptimized: true
